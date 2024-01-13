@@ -1,8 +1,3 @@
-// Breakout
-// Made By: Kevin Jardine
-// Version 2.1
-// Last Edit: 05/12/2022
-
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
